@@ -1,0 +1,14 @@
+{
+  "build_script": "tsc --noEmit && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "cheebow/roboscript",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "b744909fe8e08eea5ad8cee25eecc51f37d5152a"
+}
